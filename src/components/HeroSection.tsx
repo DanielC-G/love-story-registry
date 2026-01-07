@@ -19,13 +19,13 @@ const HeroSection = () => {
         </p>
         
         <h1 className="heading-display text-3xl sm:text-4xl md:text-5xl leading-tight mb-4">
-          Daniel Cerqueda García
+          Daniel
         </h1>
         
         <p className="text-primary text-2xl sm:text-3xl font-serif italic mb-4">&</p>
         
         <h1 className="heading-display text-3xl sm:text-4xl md:text-5xl leading-tight mb-8">
-          Flor Esperanza Hernández Martínez
+          Flor
         </h1>
         
         <GoldSeparator className="my-10" />
